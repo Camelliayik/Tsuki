@@ -1,0 +1,30 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wxd04473153e5ca728",
+# 公众号appSecret
+"app_secret": "e111361c8e11106f862c5b0b5e55f2d1",
+# 模板消息id
+"template_id": "4ogWYOdhVIFUQhFjp8hY2idzWYfHAW43AWZUkBkLy7o",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["olVJg6SL6ThDXV7-5WFuO7XfbbOU","olVJg6VIybHNa1VnYJv1axCoTZDk"],
+
+# 信息配置，
+# 和风天气apikey
+"weather_key": "8ee44eebb99a4d829f69f2bf61b59462",
+# 天行数据apikey
+"tian_api": "8893c8e356cc8ae0b60c2e56fd546125",
+# 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
+"region": "庆阳",
+# 生日1
+"birthday1": {"name": "李文昊", "birthday": "r2002-10-08"},
+# 生日2
+"birthday2": {"name": "魏瑞", "birthday": "r2002-04-06"},
+# 在一起的日子，格式同上
+"love_date": "2021-10-17",
+# 金句中文，如果为空，默认会读取金山的每日金句
+"note_ch": "春华秋实，虽万里路遥，但我坚信追光的人终会光芒万丈!",
+# 金句英文
+
+"note_en": "Du bist mein Augenstern!"
+}
